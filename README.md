@@ -33,4 +33,7 @@ Nog wel de dipswitch in de fan verzetten (LET OP: stekker er eerst uit halen).
 ## SOFTWARE
 Tasmota out of the box (op dit moment 8.5.0) kan er op worden gezet en daarbij GPIO 14 als switch configureren. Voor de rest is de configuratie helemaal naar wens in te vullen.
 
+## Optie
+Als optie kan je nog een stepdown converter aan de ESP hangen waarmee je stapsgewijs de zuigkracht van de fan kan regelen. 
+
 
